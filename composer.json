@@ -1,0 +1,28 @@
+{
+    "name": "team-nifty/frontend",
+    "description": "",
+    "authors": [
+        {
+            "name": "Patrick Weh",
+            "email": "pw@team-nifty.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Frontend\\": ""
+        }
+    },
+    "require": {
+        "livewire/livewire": "^2.10",
+        "mhmiton/laravel-modules-livewire": "^1.5",
+        "laravel/fortify": "^1.10"
+    }
+}
