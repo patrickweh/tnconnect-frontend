@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'dbfd664701e5e0d83ba7eb3f4ee51113a66d7112',
+        'reference' => '64231ee4f4a65ecad2d4d67fb2a541b6742d4d28',
         'name' => 'team-nifty/frontend',
         'dev' => true,
     ),
@@ -765,12 +765,12 @@
             'dev_requirement' => false,
         ),
         'team-nifty/frontend' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'dbfd664701e5e0d83ba7eb3f4ee51113a66d7112',
+            'reference' => '64231ee4f4a65ecad2d4d67fb2a541b6742d4d28',
             'dev_requirement' => false,
         ),
         'tijsverkoyen/css-to-inline-styles' => array(
