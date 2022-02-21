@@ -8,6 +8,7 @@ class Index extends Component
 {
     public function render()
     {
-        return view('frontend::livewire.dashboard.index');
+        return view('frontend::livewire.dashboard.index')
+            ->layout('frontend::components.layouts.app');
     }
 }
